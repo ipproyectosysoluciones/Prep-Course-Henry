@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Este es un repositorio del módulo 2 del PrepCourse de Henry
+Este Proyecto es una prueba de como crear un repositorio y clonarlo desde githuba mi escritorio local
